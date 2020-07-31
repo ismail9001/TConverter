@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         didSet {
             slider.maximumValue = 100
             slider.minimumValue = 0
-            slider.value = 0
+            slider.value = 1
         }
     }
     
